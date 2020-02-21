@@ -28,3 +28,4 @@ def kesha_maker(array)
 end
 
 def find_a(str)
+  if str.start_with? 
